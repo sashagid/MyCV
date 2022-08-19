@@ -55,12 +55,14 @@ body {
 
 
 .title {
-    font-style: normal;
+    font-style: italic;
+    text-decoration: underline;
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
     color: #000000;
     margin-bottom: 10px;
+    
    
 }
 
